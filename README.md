@@ -1,5 +1,5 @@
-# calculator
+# CALCULATOR
 
 # HTML, CSS & JAVASCRIPT
 
-![] (https://github.com/haml262/calculator/blob/main/calculator.jpg)
+![calculator](https://github.com/haml262/calculator/assets/137370501/4543379a-d527-43e5-a8c0-5141934dea05)
